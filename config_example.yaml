@@ -1,0 +1,5 @@
+# Rename this to config.yaml and update the fields as needed
+survey_id: "12345"
+api_token: "my_secret_key"
+api_secret: "my_api_secret"
+json_path: "path/to/json/file.json"
